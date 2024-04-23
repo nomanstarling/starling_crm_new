@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\Browser\\DinstarImportTest::testExample":4,"Tests\\Browser\\ExampleTest::testBasicExample":4,"Tests\\Browser\\ScrapingTest::testScraping":4},"times":{"Tests\\Browser\\DinstarImportTest::testExample":0.311,"Tests\\Browser\\ExampleTest::testBasicExample":0.228,"Tests\\Browser\\ScrapingTest::testScraping":0.23}}
